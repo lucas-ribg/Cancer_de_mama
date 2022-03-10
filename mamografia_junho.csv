@@ -1,0 +1,49 @@
+ Produção Ambulatorial do SUS - Brasil - por local de atendimento
+Qtd.aprovadaValor aprovadoQtd.apresentadaValor apresentadoDiferença de valorValor do complemento federalValor do complemento do gestorValor do incremento por Município
+Procedimento: 0202030032 CONTAGEM DE LINFOCITOS T TOTAIS
+Período:Jan/2022
+"Município";"Qtd.aprovada";"Valor_aprovado";"Qtd.apresentada";"Valor_apresentado";"Diferença_de_valor";"Valor_do_complemento_federal";"Valor_do_complemento_do_gestor";"Valor_do_incremento"
+"130350 Pauini";200;3000,00;200;3000,00;-;-;-;-
+"150803 Tracuateua";5;75,00;7;105,00;-;-;-;-
+"211130 São Luís";40;600,00;40;600,00;-;-;-;-
+"230730 Juazeiro do Norte";1;15,00;1;15,00;-;-;-;-
+"261160 Recife";14;210,00;14;210,00;-;-;-;-
+"270910 Taquarana";8;120,00;8;120,00;-;-;-;-
+"310600 Bela Vista de Minas";11;165,00;11;165,00;-;-;-;-
+"310620 Belo Horizonte";33;495,00;33;495,00;-;-;-;-
+"313940 Manhuaçu";2;30,00;2;30,00;-;-;-;-
+"315450 Riacho dos Machados";45;675,00;45;675,00;-;-;-;-
+"320430 Presidente Kennedy";1;15,00;1;15,00;-;-;-;-
+"330020 Araruama";1;15,00;1;15,00;-;-;-;-
+"330450 Rio das Flores";130;1950,00;130;1950,00;-;-;-;-
+"330455 Rio de Janeiro";68;1020,00;68;1020,00;-;-;-;-
+"330490 São Gonçalo";1;15,00;1;15,00;-;-;-;-
+"330530 São Sebastião do Alto";17;255,00;17;255,00;-;-;-;-
+"350550 Barretos";77;1155,00;77;1155,00;-;-;-;-
+"350600 Bauru";93;1395,00;93;1395,00;-;-;-;-
+"350750 Botucatu";7;105,00;7;105,00;-;-;-;-
+"351880 Guarulhos";2;30,00;2;30,00;-;-;-;-
+"352900 Marília";9;135,00;9;135,00;-;-;-;-
+"354780 Santo André";1;15,00;1;15,00;-;-;-;-
+"354850 Santos";2;30,00;2;30,00;-;-;-;-
+"355030 São Paulo";30;450,00;30;450,00;-;-;-;-
+"355100 São Vicente";1;15,00;1;15,00;-;-;-;-
+"410400 Campina Grande do Sul";6;90,00;6;90,00;-;-;-;-
+"410690 Curitiba";3;45,00;3;45,00;-;-;-;-
+"420750 Indaial";3;45,00;3;45,00;-;-;-;-
+"430510 Caxias do Sul";1;15,00;1;15,00;-;-;-;-
+"431490 Porto Alegre";6;90,00;6;90,00;-;-;-;-
+"432080 Soledade";1;15,00;1;15,00;-;-;-;-
+"530010 Brasília";6;90,00;6;90,00;-;-;-;-
+"Total";825;12375,00;827;12405,00;-;-;-;-
+ Fonte: Ministério da Saúde - Sistema de Informações Ambulatoriais do SUS (SIA/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
